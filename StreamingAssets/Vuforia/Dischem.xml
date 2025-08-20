@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="VitaminSign" size="1.000000 1.041579" />
+    <ImageTarget name="BuffaloLookDown" size="1.000000 0.918385" />
+    <ImageTarget name="BirdProud" size="1.000000 0.979798" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="s01buffalo" size="1.000000 0.997000" />
+    <ImageTarget name="S01PersonV2" size="1.000000 1.000000" />
+    <ImageTarget name="S01Person" size="0.061000 0.061000" />
+    <ImageTarget name="S01Zebra" size="0.061000 0.061000" />
+    <ImageTarget name="S01Tree" size="0.061000 0.061000" />
+    <ImageTarget name="S01Monkey" size="0.061000 0.061000" />
+    <ImageTarget name="S01Lion" size="0.061000 0.061000" />
+    <ImageTarget name="S01Elephant" size="0.061000 0.061000" />
+  </Tracking>
+</QCARConfig>
